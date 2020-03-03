@@ -6,3 +6,6 @@ lo que veía como lo fue en el caso del Arte Rupestre, consistiendo en distintas
 dibujos en las Paredes de Cavernas que utilizaban como refugio, dándose a conocer los distintos 
 tipos de animales que cazaban o inclusive realizando 
 representaciones acerca de los miembros de su Comunidad o Tribu.
+
+
+<img src="descarga.jfif">
