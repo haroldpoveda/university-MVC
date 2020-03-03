@@ -8,4 +8,4 @@ tipos de animales que cazaban o inclusive realizando
 representaciones acerca de los miembros de su Comunidad o Tribu.
 
 
-<img src="Poveda\descarga.jfif">
+<img src="descarga.png">
